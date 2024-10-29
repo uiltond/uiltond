@@ -1,5 +1,5 @@
 ### Olá! Eu sou Uilton. 👋
 
-![uiltond GitHub stats](https://username=uiltond&show_icons=true&hide_rank=tru&theme=dark)
+![uiltond GitHub stats](https://username=uiltond rank=tru&theme=dark)
 
 Sempre evoluindo. 
